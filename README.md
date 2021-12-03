@@ -1,2 +1,1 @@
-# Equipo de Daniela y Ricardo -Prueba de git
-
+# Equipo de Daniela y Ricardo
