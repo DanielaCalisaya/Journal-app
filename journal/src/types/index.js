@@ -5,15 +5,15 @@ export const types = {  /* acciones */
 
     uiSetError : '[UI] Set error',  /* Seteamos el error */
     uiRemoveError : '[UI] Remove error',
-    uiStartLoading : '[UI] Start loading',
+    uiStartLoading : '[UI] Start loading',  /* Cuando comienza a cargarse la acción */
     uiFinishLoading : '[UI] Finish loading',
 
-    notesAddNew : '[Notes] New note',  /* listado de notas */
+    noteAddNew : '[Notes] New note',  /* listado de notas */
     noteActive : '[Notes] Set active note',
-    notesLoad : '[Notes] Load notes',
+    notesLoad : '[Notes] Load notes',  /* Cargar esas notas */
     noteUpdated : '[Notes] Updated note',
     noteDeleted : '[Notes] Deleted note',
     noteFileUrl : '[Notes] Updated image url',
-    noteLogoutCleaning : '[Notes] Logout cleaning'
+    noteLogoutCleaning : '[Notes] Logout cleaning'  /* Al cerrar sesión hace limpieza */
 
 }
