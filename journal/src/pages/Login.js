@@ -13,15 +13,18 @@ export const Login = () => {
                 placeholder='Email'
                 name='email'
                 autoComplete='off'
+                className="auth_input"
             />
             <input 
                 type="password"
                 placeholder='Password'
                 name='password' 
+                className="auth_input"
             />
             <button
                 type='submit'
                 /* agregar luego la funcionalidad de desabilitar la funcion cuando se este autenticando */
+                className="buttons__btn buttons__btn-primary buttons__btn-block mb-5"
             >
                 Login
             </button>
