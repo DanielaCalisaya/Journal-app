@@ -1,4 +1,5 @@
 import React from 'react'
+/* import { NoActive } from '../components/NoActive' */
 import { Note } from '../components/Note'
 import { Sidebar } from '../components/Sidebar'
 
@@ -7,7 +8,8 @@ export const Notes = () => {
         <div className='journal__main-content'>
             <Sidebar/>
             <main>
-                 <Note/>
+                <Note/>
+                {/* <NoActive/> */}
             </main>
         </div>
     )
