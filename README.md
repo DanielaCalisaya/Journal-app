@@ -9,3 +9,15 @@
 - Redux
 - Sass
 - Cloudinary
+
+## Dependencias instaladas: (con npm install o yarn add)
+
+- firebase
+- moment
+- react-router-dom
+- sweetalert2
+- node-sass
+- redux
+- react-redux
+- redux-thunk
+- validator
