@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import { Login } from '../pages/Login';
 import { Register } from '../pages/Register';
 
-const AuthRouter = () => {
+export const AuthRouter = () => {
   return (
     <div className='auth__main'>
         <div className='auth__box-container'>
@@ -21,5 +21,3 @@ const AuthRouter = () => {
     </div>
   )
 }
-
-export default AuthRouter

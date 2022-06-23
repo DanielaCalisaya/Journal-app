@@ -1,6 +1,6 @@
 import React from 'react'
 
-function NoteAppBar() {
+export const NoteAppBar = () => {
   return (
     <div className='notes__appbar'>
         <span>Fecha de hoy</span>
@@ -29,5 +29,3 @@ function NoteAppBar() {
     </div>
   )
 }
-
-export default NoteAppBar
