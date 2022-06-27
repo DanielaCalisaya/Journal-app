@@ -4,7 +4,7 @@ export const Login = () => {
 
   return (
     <div>
-        <h3>Login</h3>
+        <h3 className='auth__title mb-5'>Ingresá</h3>
         <div>
             {/* mostramos los errores */}
         </div>
@@ -26,7 +26,7 @@ export const Login = () => {
                 /* agregar luego la funcionalidad de desabilitar la funcion cuando se este autenticando */
                 className="buttons__btn buttons__btn-primary buttons__btn-block mb-5"
             >
-                Login
+                Ingresá
             </button>
             <div className='auth_social-networks'>
                 <p>Logueate con tus redes sociales</p>

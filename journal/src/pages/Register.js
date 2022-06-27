@@ -4,7 +4,7 @@ export const Register = () => {
     
   return (
     <div>
-        <h3>Registrate</h3>
+        <h3 className='auth__title mb-5'>Registrate</h3>
         <div>
             {/* mostramos los errores */}
         </div>
