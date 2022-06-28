@@ -1,0 +1,7 @@
+Ayuda memoria: 
+Ingresar a Firebase, es posible loguearse con Google
+Vamos a crear un nuevo proyecto, le damos nombre y aceptamos terminos y condiciones.
+Al crearlo nos llevará a un panel, en donde nos dice que no hay apps en nuestro proyecto.
+Vamos a ajustes, crear una nueva app, y vamos al logo del código, 
+allí nos pedirá un nombre, se le puede poner el mismo y creamos la app.
+Luego nos lleva a un panel donde dice de instalar firebase usando npm install o mediante otros métodos.
